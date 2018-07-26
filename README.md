@@ -3,5 +3,7 @@ Repositorio público para el curso de IIC2016 Visualización de Información, PU
 
 # Instructores
 Denis Parra
+
 Fernando Florenzano
+
 Hernan Valdivieso
